@@ -32,5 +32,3 @@ Languages and tools:<br>
 **Current Focus:**<br>
 🛠️ Working on: Foto24 offers manager<br>
 🧠 Learning: React
-
-![image](https://github.com/Ianzev/me/assets/108157028/92bd2ba8-0c87-4c15-a06e-3026d1042549)
