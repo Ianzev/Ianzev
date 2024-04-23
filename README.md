@@ -18,7 +18,7 @@ In this ever-evolving tech landscape, I believe in the power of sharing knowledg
 Languages and tools:<br>
 <div align="center">
   <code><img height="50" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" title="React" /></code>
-	<code><img height="50" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" /></code>
+	<code><img height="50" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://img.shields.io/badge/-HTTP-005C0A?style=flat-square&logo=http&logoColor=white" alt="HTTP" title="HTTP" /></code>
 	<code><img height="50" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" /></code>
