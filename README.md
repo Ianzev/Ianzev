@@ -4,7 +4,7 @@
 My name is Ian Zevallos, a passionate Fullstack Software Engineer with a solid foundation from Codecool and further exploration in the Java ecosystem 🌍. 
 I thrive on the satisfaction of crafting solutions that surprise and delight users (mainly family and friends right now :)) while solving real-world problems.
 
-DevOps Advocate: Embracing the DevOps philosophy, I automate everything to ensure efficiency and reliability in every project I undertake 💻. Continuous improvement is not just a mantra; it's a way of life.
+Embracing the DevOps philosophy, I automate everything to ensure efficiency and reliability in every project I undertake 💻. Continuous improvement is not just a mantra; it's a way of life.
 
 **Outside the code realm** <br><br>
 **Athlete at Heart:**<br> When I'm not at my desk, you can find me indulging my passion for sports. Whether it's hitting the gym, going for a run, or playing a game of football, staying active is essential to my well-being.
